@@ -1,0 +1,14 @@
+.div1{
+    display: flex;
+    justify-content: center;
+}
+
+.input21{
+    height: 50px;
+    width: 200px;
+    
+}
+
+.input21::placeholder{
+    text-align: center;
+}
